@@ -2,4 +2,4 @@
 
 **[Me is here](https://stepanzh.github.io/hover-me/)**
 
-Toy of some physics and hover.
+Toy of some physics and hover. Vanilla js.
