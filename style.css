@@ -15,8 +15,17 @@ body {
 header {
   justify-self: center;
   align-self: end;
-  font-size: 42px;
   margin-bottom: 48px;
+}
+
+header p {
+  font-size: 12px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 42px;
 }
 
 main {
